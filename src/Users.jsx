@@ -19,3 +19,8 @@ export default function Users(){
         </div>
     )
 }
+
+
+// 1.create a state to store the data
+// 2.create use effect with no dependencies
+// 3.use fetch to load data
